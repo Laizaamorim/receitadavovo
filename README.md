@@ -1,10 +1,10 @@
 #RECEITA DA VOVO
  
  🎂 Site da receitas da vovo Palmeirinha
-  ## 🍰 istalação
+  ## 🍰 Instalação
    para trabalhar com esse projeto é necessario que trabalhe com os seguintes programa:
    Vs code
-   ## 🥮 tecnologia
+   ## 🥮 Tecnologia
    -Html
    -Css 
    JS 
